@@ -16,6 +16,8 @@ put your email and case number in the niw_status_checker.py file
 
 run niw_status_checker.py
 
+python niw_status_checker.py &
+
 
 it will send you an email every day
 
